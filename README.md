@@ -12,4 +12,4 @@
 # the overlay visible and everything else (background) white
 #
 # You can use the snipped below (in python) to get started if you like 
-# Python is not required but is preferred. You are free to use any libraries or any language
+# Python is not required but is preferred. You are free to use any libraries or any language.
